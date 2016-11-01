@@ -9,7 +9,7 @@
 ###Homepage:
 #https://github.com/danieldizzy/Net_Sec_tool_kit
 ###Author:
-#Sheberwok Dizzy <mazin AT mazinahmed DOT net>
+#Sheberwok Dizzy 
 ###################################################################################
 
 
