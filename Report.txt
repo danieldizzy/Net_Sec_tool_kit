@@ -1,0 +1,62 @@
+day 1 Manager Itou and Ikeda san introduced me to the research department (3 departments). I was also introduced to the boss of the group Tantousan.
+
+Day 2 Started reading some materials and prepared my first presentation
+
+Day 3 Gave a summary of my reading materials and made some follow up discussion with the direct manager, got some questions answered, 
+we also prepared our schedule again for the next couple of days for followup and discussion. I will begive summerising about my the 802.1Qvb and summary on the TSN
+recieved some materials from Ikeda-San which seem to be much useful compared to reading the whole documentation.
+A few concepts need revision and then will prepare the slides tomorrow. 
+Day 4 Did detailed research on the TSN and how a TSN system will could look like 
+
+
+intext:"title or keyword here "
+filetype:rcf inurl:vpn 
+
+PTP Prerequisites  
+
+ The machine requirements for Linux PTP implementation 
+• Linux kernel version 3.0 or newer
+• Kernel headers available at compile time
+• A supported Ethernet MAC device
+• A supported PHY device paired with a MAC that allows time stamping in the PHY
+
+
+OPC foundation Password
+VgkgZYBrhFfF
+
+
+Day 5 Massive reading and understand sevceral things boy tire
+
+Day 6 Monday 2016.10.11 Strict security plicies applied at work in regards to intellectual property 
+gave a summarised presentation on the TNS and 802.1Qbv and also presented on the OPC-UA, 
+There we some questions left unanswered for another pressentation. following that I began working with the TSN Starter Kit, tried to understand the User Manual 
+* The softwares that comes with it
+	The Kit mainly inclused the TSN switches and PTP enabled enpoints(BeagleBone)
+
+
+Day 7 started with starter kit and evealuation
+realized 1 AGL relationship: Asking questions deep quiestions is kee to discovering your next step and or product..
+I realized the more i asked questions the move discussion we have and even my manager commented on it"" We do have master students here but they are of cource good at reading the materials but asking questions is an important aspect""
+ethtool -T eth0
+
+Day 8 Tip of the day 
+seiri, seiton, seiso, seiketsu, and shitsuke must be observed and understood as much as possible and a welcome party 
+
+Day 8 (Firday 2016.10.14)
+Gave a presentation and rexamined some questions that needed to be answewred 
+
+Day 9 another busy day doing some configurations and trying to understand how things work in the linuxptp system
+
+
+Probably the 15th day...
+I took the day off during this week on the 26th, i have to prepare a report for AGL and also give a presentation about my research work on the 1st of November.
+Things i realized when i did not complete the reports. 
+
+Security levels are high in organization recently as a result of the increase in cyber attacks more DDos devices in the air.
+ 
+
+
+
+Day 2016.11.1
+I gave a presentation about my research work to my working group. 
+Thankfully My manager gives me advice in regards to the relationship between my research and the intership project 
